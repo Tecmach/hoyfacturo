@@ -1,2 +1,2 @@
 # hoyfacturo
-landpage de la pagina web hoyfacturo.com
+landpage inicial de la pagina web hoyfacturo.com
